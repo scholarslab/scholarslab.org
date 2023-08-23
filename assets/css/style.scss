@@ -41,3 +41,56 @@ iframe {
 @import "blog";
 @import "spatial-tech";
 @import "research-project";
+
+// Styles for the working-library browse page. Uses a div for now.
+div.working-library {
+	margin: 2rem 0;
+	display:flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content: space-between;
+
+	a {
+		display:flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+		justify-content: space-evenly;
+		align-items: center;
+		width: 30%;
+		text-decoration:none !important;
+		color: #333;
+		border-width: 0 !important;
+		margin-bottom: 1rem;
+		padding: .5rem;
+
+		img {
+			border: 10px solid $blue-alt-lightest;
+		}
+		em {
+			display:block;
+		}
+	}
+}
+
+article.working-library {
+	padding: 2rem;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	.post__content {
+		width: 48%;
+		margin:0;
+		padding:0;
+	}
+	.bibliographic-info {
+		width: 48%;
+		display:block;
+
+		img {
+			display:block;
+			margin: 1rem auto;
+			border: 5px solid rgba(0,0,0,0.125);
+		}
+	}
+}

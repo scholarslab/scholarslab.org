@@ -1,0 +1,19 @@
+---
+layout: page
+title: Working Library
+excerpt: "Our staff curates a working library of publications related to digital humanities.
+These are available to browse and consult in our lab space."
+permalink: /working-library/
+---
+
+<div class="working-library">
+{% for work in site.working-library %}
+
+<a id="{{work.slug}}" href="{{ work.url }}">
+    <img alt="" src="https://covers.openlibrary.org/b/isbn/{{ work.isbn }}-M.jpg" />
+    {% assign work_title = work.title | split: ":" %}
+    <em>{{ work_title[0] }}</em>
+</a>
+
+{% endfor %}
+</div>

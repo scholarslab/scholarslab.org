@@ -18,7 +18,7 @@ sass:
   style: compressed
 markdown: kramdown
 highlighter: rouge
-kramdown: 
+kramdown:
   parse_block_html: true
   parse_span_html: true
 plugins:
@@ -46,8 +46,10 @@ collections:
   events:
     output: true
     permalink: /:collection/:name/
+  working-library:
+    output: true
+    permalink: /:collection/:name/
   spaces: # output false
-
 header_pages:
   - about.md
   - people.md

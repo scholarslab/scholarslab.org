@@ -1,0 +1,681 @@
+[
+	{
+		"id": "http://zotero.org/groups/379/items/6QJ3SIFC",
+		"type": "book",
+		"abstract": "The emergence of digital humanities has been heralded for its commitment to openness, access, and the democratizing of knowledge, but it raises a number of questions about omissions with respect to race, gender, sexuality, disability, and nation. Postcolonial digital humanities is one approach to uncovering and remedying inequalities in digital knowledge production, which is implicated in an information-age politics of knowledge. New Digital Worlds traces the formation of postcolonial studies and digital humanities as fields, identifying how they can intervene in knowledge production in the digital age. Roopika Risam examines the role of colonial violence in the development of digital archives and the possibilities of postcolonial digital archives for resisting this violence. Offering a reading of the colonialist dimensions of global organizations for digital humanities research, she explores efforts to decenter these institutions by emphasizing the local practices that subtend global formations and pedagogical approaches that support this decentering. Last, Risam attends to human futures in new digital worlds, evaluating both how algorithms and natural language processing software used in digital humanities projects produce universalist notions of the \"human\" and also how to resist this phenomenon.",
+		"event-place": "Evanston, Illinois",
+		"ISBN": "978-0-8101-3885-8",
+		"language": "English",
+		"number-of-pages": "184",
+		"publisher": "Northwestern University Press",
+		"publisher-place": "Evanston, Illinois",
+		"source": "Amazon",
+		"title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+		"title-short": "New Digital Worlds",
+		"author": [
+			{
+				"family": "Risam",
+				"given": "Roopika"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/5A5JZ29D",
+		"type": "book",
+		"abstract": "A collection that explores the processes of making within the digital humanities.On Making in the Digital Humanities fills a gap in our understanding of digital humanities projects and craft by exploring the processes of making as much as the products that arise from it. Focusing on the interwoven layers of human and technological textures that constitute digital humanities scholarship, it assembles a group of well-known, experienced, and emerging scholars in the digital humanities to reflect on various forms of making. The chapters gathered here are individually important, but together provide a very human view of what it is to do the digital humanities, in the past, present, and future. This book will accordingly be of interest to researchers, teachers, and students of the digital humanities; creative humanities, including maker spaces and culture; information studies; the history of computing and technology; and the history of science and the humanities.",
+		"ISBN": "978-1-80008-421-6",
+		"language": "English",
+		"number-of-pages": "306",
+		"publisher": "UCL Press",
+		"source": "Amazon",
+		"title": "On Making in the Digital Humanities: The Scholarship of Digital Humanities Development in Honour of John Bradley",
+		"title-short": "On Making in the Digital Humanities",
+		"editor": [
+			{
+				"family": "Nyhan",
+				"given": "Julianne"
+			},
+			{
+				"family": "Rockwell",
+				"given": "Geoffrey"
+			},
+			{
+				"family": "Sinclair",
+				"given": "Stéfan"
+			},
+			{
+				"family": "Ortolja-Baird",
+				"given": "Alexandra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/PWNCT4Z9",
+		"type": "book",
+		"abstract": "\"Notwithstanding their differing approaches―digital, archival, historical, iterative, critical, creative, reflective―the essays gathered here articulate new ways of seeing, investigating, and apprehending literature and culture.\" – From the PrefaceThis collection of essays enriches digital humanities research by examining various Canadian cultural works and the advances in technologies that facilitate these interdisciplinary collaborations. Fourteen essays―eleven in English and three in French―survey the helix of place and space. Contributors to Part I chart new archival and storytelling methodologies, while those in Part II venture forth to explore specific cultural and literary texts. Cultural Mapping and the Digital Sphere will serve as an indispensable road map for researchers and those interested in the digital humanities, women's writing, and Canadian culture and literature.Contributors: Jeffery Antoniuk, Susan Brown, Constance Crompton, Ravit H. David, Patricia Demers, Shawn DeSouza-Coelho, Cecily Devereux, Teresa M. Dobson, Sandra Gabriele, Isobel Grundy, Andrea Hasenbank, Paul Hjartarson, Kathleen Kellett, Sasha Kovacs, Vanessa Lent, Margaret Mackey, Breanna Mroczek, Bethany Nowviskie, Ruth Panofsky, Mariana Paredes-Olea, Harvey Quamen, Jennifer Roberts-Smith, Omar Rodriguez-Arenas, Mary-Jo Romaniuk, Stan Ruecker, Lori Saint-Martin, Michelle Schwartz, Stéfan Sinclair, Mireille Mai Truong, Stéphanie Walsh Matthews, Heather Zwicker.",
+		"edition": "Illustrated edition",
+		"event-place": "Edmonton, Alberta, Canada",
+		"ISBN": "978-1-77212-049-3",
+		"language": "English",
+		"number-of-pages": "336",
+		"publisher": "University of Alberta Press",
+		"publisher-place": "Edmonton, Alberta, Canada",
+		"source": "Amazon",
+		"title": "Cultural Mapping and the Digital Sphere: Place and Space",
+		"title-short": "Cultural Mapping and the Digital Sphere",
+		"editor": [
+			{
+				"family": "Panofsky",
+				"given": "Ruth"
+			},
+			{
+				"family": "Kellett",
+				"given": "Kathleen"
+			}
+		],
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Susan"
+			},
+			{
+				"family": "Romaniuk",
+				"given": "Mary-Jo"
+			},
+			{
+				"family": "Antoniuk",
+				"given": "Jeffery"
+			},
+			{
+				"family": "Crompton",
+				"given": "Constance"
+			},
+			{
+				"family": "David",
+				"given": "Ravit H."
+			},
+			{
+				"family": "Demers",
+				"given": "Patricia"
+			},
+			{
+				"family": "DeSouza-Coelho",
+				"given": "Shawn"
+			},
+			{
+				"family": "Devereux",
+				"given": "Cecily"
+			},
+			{
+				"family": "Dobson",
+				"given": "Teresa M."
+			},
+			{
+				"family": "Gabriele",
+				"given": "Sandra"
+			},
+			{
+				"family": "Grundy",
+				"given": "Isobel"
+			},
+			{
+				"family": "Hasenbank",
+				"given": "Andrea"
+			},
+			{
+				"family": "Hjartarson",
+				"given": "Paul"
+			},
+			{
+				"family": "Kovacs",
+				"given": "Alexandra"
+			},
+			{
+				"family": "Lent",
+				"given": "Vanessa"
+			},
+			{
+				"family": "Mackey",
+				"given": "Margaret"
+			},
+			{
+				"family": "Matthews",
+				"given": "Stephanie Walsh"
+			},
+			{
+				"family": "Mroczek",
+				"given": "Breanna"
+			},
+			{
+				"family": "Nowviskie",
+				"given": "Bethany"
+			},
+			{
+				"family": "Paredes-Olea",
+				"given": "Mariana"
+			},
+			{
+				"family": "Quamen",
+				"given": "Harvey"
+			},
+			{
+				"family": "Roberts-Smith",
+				"given": "Jennifer"
+			},
+			{
+				"family": "Rodriguez-Arenas",
+				"given": "Omar"
+			},
+			{
+				"family": "Ruecker",
+				"given": "Stan"
+			},
+			{
+				"family": "Saint-Martin",
+				"given": "Lori"
+			},
+			{
+				"family": "Schwartz",
+				"given": "Michelle"
+			},
+			{
+				"family": "Sinclair",
+				"given": "Stefan"
+			},
+			{
+				"family": "Truong",
+				"given": "Mireille Mai"
+			},
+			{
+				"family": "Zwicker",
+				"given": "Heather"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/9LD9UFB9",
+		"type": "book",
+		"abstract": "The latest installment of a digital humanities bellwether  Contending with recent developments like the shocking 2016 U.S. Presidential election, the radical transformation of the social web, and passionate debates about the future of data in higher education, Debates in the Digital Humanities 2019 brings together a broad array of important, thought-provoking perspectives on the field’s many sides. With a wide range of subjects including gender-based assumptions made by algorithms, the place of the digital humanities within art history, data-based methods for exhuming forgotten histories, video games, three-dimensional printing, and decolonial work, this book assembles a who’s who of the field in more than thirty impactful essays.Contributors: Rafael Alvarado, U of Virginia; Taylor Arnold, U of Richmond; James Baker, U of Sussex; Kathi Inman Berens, Portland State U; David M. Berry, U of Sussex; Claire Bishop, The Graduate Center, CUNY; James Coltrain, U of Nebraska–Lincoln; Crunk Feminist Collective; Johanna Drucker, U of California–Los Angeles; Jennifer Edmond, Trinity College; Marta Effinger-Crichlow, New York City College of Technology–CUNY; M. Beatrice Fazi, U of Sussex; Kevin L. Ferguson, Queens College–CUNY; Curtis Fletcher, U of Southern California; Neil Fraistat, U of Maryland; Radhika Gajjala, Bowling Green State U; Michael Gavin, U of South Carolina; Andrew Goldstone, Rutgers U; Andrew Gomez, U of Puget Sound; Elyse Graham, Stony Brook U; Brian Greenspan, Carleton U; John Hunter, Bucknell U; Steven J. Jackson, Cornell U; Collin Jennings, Miami U; Lauren Kersey, Saint Louis U; Kari Kraus, U of Maryland; Seth Long, U of Nebraska, Kearney; Laura Mandell, Texas A&M U; Rachel Mann, U of South Carolina; Jason Mittell, Middlebury College; Lincoln A. Mullen, George Mason U; Trevor Muñoz, U of Maryland; Safiya Umoja Noble, U of Southern California; Jack Norton, Normandale Community College; Bethany Nowviskie, U of Virginia; Élika Ortega, Northeastern U; Marisa Parham, Amherst College; Jussi Parikka, U of Southampton; Kyle Parry, U of California, Santa Cruz; Brad Pasanek, U of Virginia; Stephen Ramsay, U of Nebraska–Lincoln; Matt Ratto, U of Toronto; Katie Rawson, U of Pennsylvania; Ben Roberts, U of Sussex; David S. Roh, U of Utah; Mark Sample, Davidson College; Moacir P. de Sá Pereira, New York U; Tim Sherratt, U of Canberra; Bobby L. Smiley, Vanderbilt U; Lauren Tilton, U of Richmond; Ted Underwood, U of Illinois, Urbana-Champaign; Megan Ward, Oregon State U; Claire Warwick, Durham U; Alban Webb, U of Sussex; Adrian S. Wisnicki, U of Nebraska–Lincoln.",
+		"event-place": "Minneapolis London",
+		"ISBN": "978-1-5179-0693-1",
+		"language": "English",
+		"number-of-pages": "472",
+		"publisher": "University of Minnesota Press",
+		"publisher-place": "Minneapolis London",
+		"source": "Amazon",
+		"title": "Debates in the Digital Humanities 2019",
+		"editor": [
+			{
+				"family": "Gold",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/52255FFS",
+		"type": "book",
+		"abstract": "A cutting-edge view of the digital humanities at a time of global pandemic, catastrophe, and uncertaintyWhere do the digital humanities stand in 2023? Debates in the Digital Humanities 2023 presents a state-of-the-field vision of digital humanities amid rising social, political, economic, and environmental crises; a global pandemic; and the deepening of austerity regimes in U.S. higher education. Providing a look not just at where DH stands but also where it is going, this fourth volume in the Debates in the Digital Humanities series features both established scholars and emerging voices pushing the field’s boundaries, asking thorny questions, and providing space for practitioners to bring to the fore their research and their hopes for future directions in the field. Carrying forward the themes of political and social engagement present in the series throughout, it includes crucial contributions to the field—from a vital forum centered on the voices of Black women scholars, manifestos from feminist and Latinx perspectives on data and DH, and a consideration of Indigenous data and artificial intelligence, to essays that range across topics such as the relation of DH to critical race theory, capital, and accessibility.Contributors: Harmony Bench, Ohio State U; Christina Boyles, Michigan State U; Megan R. Brett, George Mason U; Michelle Lee Brown, Washington State U; Patrick J. Burns, New York U; Kent K. Chang, U of California, Berkeley; Rico Devara Chapman, Clark Atlanta U; Marika Cifor, U of Washington; María Eugenia Cotera, U of Texas; T. L. Cowan, U of Toronto; Marlene L. Daut, U of Virginia; Quinn Dombrowski, Stanford U; Kate Elswit, U of London; Nishani Frazier, U of Kansas; Kim Gallon, Brown U; Patricia Garcia, U of Michigan; Lorena Gauthereau, U of Houston; Masoud Ghorbaninejad, University of Victoria; Abraham Gibson, U of Texas at San Antonio; Nathan P. Gibson, Ludwig-Maximilians-Universität, Munich; Kaiama L. Glover, Barnard College; Hilary N. Green, Davidson College; Jo Guldi, Southern Methodist U; Matthew N. Hannah, Purdue U Libraries; Jeanelle Horcasitas, DigitalOcean; Christy Hyman, Mississippi State U; Arun Jacob, U of Toronto; Jessica Marie Johnson, Johns Hopkins U and Harvard U; Martha S. Jones, Johns Hopkins U; Annette K. Joseph-Gabriel, Duke U; Mills Kelly, George Mason U; Spencer D. C. Keralis, Digital Frontiers; Zoe LeBlanc, U of Illinois at Urbana-Champaign; Jason Edward Lewis, Concordia U; James Malazita, Rensselaer Polytechnic Institute; Alison Martin, Dartmouth College; Linda García Merchant, U of Houston Libraries; Rafia Mirza, Southern Methodist U; Mame-Fatou Niang, Carnegie Mellon U; Jessica Marie Otis, George Mason U; Marisa Parham, U of Maryland; Andrew Boyles Petersen, Michigan State U Libraries; Emily Pugh, Getty Research Institute; Olivia Quintanilla, UC Santa Barbara; Jasmine Rault, U of Toronto Scarborough; Anastasia Salter, U of Central Florida; Maura Seale, U of Michigan; Celeste Tường Vy Sharpe, Normandale Community College; Astrid J. Smith, Stanford U Libraries; Maboula Soumahoro, U of Tours; Mel Stanfill, U of Central Florida; Tonia Sutherland, U of Hawaiʻi at Mānoa; Gabriela Baeza Ventura, U of Houston; Carolina Villarroel, U of Houston; Melanie Walsh, U of Washington; Hēmi Whaanga, U of Waikato; Bridget Whearty, Binghamton U; Jeri Wieringa, U of Alabama; David Joseph Wrisley, NYU Abu Dhabi. Cover alt text: A text-based cover with the main title repeating right-side up and upside down. The leftmost iteration appears in black ink; all others are white.",
+		"ISBN": "978-1-5179-1528-5",
+		"language": "English",
+		"number-of-pages": "520",
+		"publisher": "Univ Of Minnesota Press",
+		"source": "Amazon",
+		"title": "Debates in the Digital Humanities 2023",
+		"editor": [
+			{
+				"family": "Gold",
+				"given": "Matthew K."
+			},
+			{
+				"family": "Klein",
+				"given": "Lauren F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/43ZHWRFQ",
+		"type": "book",
+		"abstract": "Where racism and sexism meet―an understanding of anti-Black misogynyWhen Moya Bailey first coined the term misogynoir, she defined it as the ways anti-Black and misogynistic representation shape broader ideas about Black women, particularly in visual culture and digital spaces. She had no idea that the term would go viral, touching a cultural nerve and quickly entering into the lexicon. Misogynoir now has its own Wikipedia page and hashtag, and has been featured on Comedy Central’s The Daily Show and CNN’s Cuomo Prime Time. In Misogynoir Transformed, Bailey delves into her groundbreaking concept, highlighting Black women’s digital resistance to anti-Black misogyny on YouTube, Facebook, Tumblr, and other platforms. At a time when Black women are depicted as more ugly, deficient, hypersexual, and unhealthy than their non-Black counterparts, Bailey explores how Black women have bravely used social-media platforms to confront misogynoir in a number of courageous―and, most importantly, effective―ways. Focusing on queer and trans Black women, she shows us the importance of carving out digital spaces, where communities are built around queer Black webshows and hashtags like #GirlsLikeUs. Bailey shows how Black women actively reimagine the world by engaging in powerful forms of digital resistance at a time when anti-Black misogyny is thriving on social media. A groundbreaking work, Misogynoir Transformed highlights Black women’s remarkable efforts to disrupt mainstream narratives, subvert negative stereotypes, and reclaim their lives.",
+		"edition": "Reprint edition",
+		"event-place": "New York",
+		"ISBN": "978-1-4798-7874-1",
+		"language": "English",
+		"number-of-pages": "241",
+		"publisher": "NYU Press",
+		"publisher-place": "New York",
+		"source": "Amazon",
+		"title": "Misogynoir Transformed",
+		"author": [
+			{
+				"family": "Bailey",
+				"given": "Moya"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/Z26R5J9I",
+		"type": "book",
+		"abstract": "This “well-researched, nuanced” study of the rise of social media activism explores how marginalized groups use Twitter to advance counter-narratives, preempt political spin, and build diverse networks of dissent (Ms.)   The power of hashtag activism became clear in 2011, when #IranElection served as an organizing tool for Iranians protesting a disputed election and offered a global audience a front-row seat to a nascent revolution. Since then, activists have used a variety of hashtags, including #JusticeForTrayvon, #BlackLivesMatter, #YesAllWomen, and #MeToo to advocate, mobilize, and communicate. In this book, Sarah Jackson, Moya Bailey, and Brooke Foucault Welles explore how and why Twitter has become an important platform for historically disenfranchised populations, including Black Americans, women, and transgender people. They show how marginalized groups, long excluded from elite media spaces, have used Twitter hashtags to advance counternarratives, preempt political spin, and build diverse networks of dissent.   The authors describe how such hashtags as #MeToo, #SurvivorPrivilege, and #WhyIStayed have challenged the conventional understanding of gendered violence; examine the voices and narratives of Black feminism enabled by #FastTailedGirls, #YouOKSis, and #SayHerName; and explore the creation and use of #GirlsLikeUs, a network of transgender women. They investigate the digital signatures of the “new civil rights movement”—the online activism, storytelling, and strategy-building that set the stage for #BlackLivesMatter—and recount the spread of racial justice hashtags after the killing of Michael Brown in Ferguson, Missouri, and other high-profile incidents of killings by police. Finally, they consider hashtag created by allies, including #AllMenCan and #CrimingWhileWhite.",
+		"edition": "Illustrated edition",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-262-04337-3",
+		"language": "English",
+		"number-of-pages": "296",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Amazon",
+		"title": "#HashtagActivism: Networks of Race and Gender Justice",
+		"title-short": "#HashtagActivism",
+		"author": [
+			{
+				"family": "Jackson",
+				"given": "Sarah J."
+			},
+			{
+				"family": "Bailey",
+				"given": "Moya"
+			},
+			{
+				"family": "Welles",
+				"given": "Brooke Foucault"
+			},
+			{
+				"family": "Lauren",
+				"given": "Genie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/NY7APUAM",
+		"type": "book",
+		"abstract": "Winner, 2022 Nancy Baym Book Award, given by the Association of Internet ResearchersTraces the longstanding relationship between technology and Black feminist thoughtBlack women are at the forefront of some of this century’s most important discussions about technology: trolling, online harassment, algorithmic bias, and influencer culture. But, Catherine Knight Steele argues that Black women’s relationship to technology began long before the advent of Twitter or Instagram. To truly “listen to Black women,” Steele points to the history of Black feminist technoculture in the United States and its ability to decenter white supremacy and patriarchy in a conversation about the future of technology. Using the virtual beauty shop as a metaphor, Digital Black Feminism walks readers through the technical skill, communicative expertise, and entrepreneurial acumen of Black women’s labor―born of survival strategies and economic necessity―both on and offline.Positioning Black women at the center of our discourse about the past, present, and future of technology, Steele offers a through-line from the writing of early twentieth-century Black women to the bloggers and social media mavens of the twenty-first century. She makes connections among the letters, news articles, and essays of Black feminist writers of the past and a digital archive of blog posts, tweets, and Instagram stories of some of the most well-known Black feminist writers of our time. Linking narratives and existing literature about Black women’s technology use in the nineteenth, twentieth, and twenty-first century, Digital Black Feminism traverses the bounds between historical and archival analysis and empirical internet studies, forcing a reconciliation between fields and methods that are not always in conversation. As the work of Black feminist writers now reaches its widest audience online, Steele offers both hopefulness and caution on the implications of Black feminism becoming a digital product.",
+		"event-place": "New York",
+		"ISBN": "978-1-4798-0838-0",
+		"language": "English",
+		"number-of-pages": "208",
+		"publisher": "NYU Press",
+		"publisher-place": "New York",
+		"source": "Amazon",
+		"title": "Digital Black Feminism",
+		"author": [
+			{
+				"family": "Steele",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/9ZDW9IH4",
+		"type": "book",
+		"abstract": "A wide-ranging, interconnected anthology presents a diversity of feminist contributions to digital humanitiesIn recent years, the digital humanities has been shaken by important debates about inclusivity and scope—but what change will these conversations ultimately bring about? Can the digital humanities complicate the basic assumptions of tech culture, or will this body of scholarship and practices simply reinforce preexisting biases? Bodies of Information addresses this crucial question by assembling a varied group of leading voices, showcasing feminist contributions to a panoply of topics, including ubiquitous computing, game studies, new materialisms, and cultural phenomena like hashtag activism, hacktivism, and campaigns against online misogyny.Taking intersectional feminism as the starting point for doing digital humanities, Bodies of Information is diverse in discipline, identity, location, and method. Helpfully organized around keywords of materiality, values, embodiment, affect, labor, and situatedness, this comprehensive volume is ideal for classrooms. And with its multiplicity of viewpoints and arguments, it’s also an important addition to the evolving conversations around one of the fastest growing fields in the academy.Contributors: Babalola Titilola Aiyegbusi, U of Lethbridge; Moya Bailey, Northeastern U; Bridget Blodgett, U of Baltimore; Barbara Bordalejo, KU Leuven; Jason Boyd, Ryerson U; Christina Boyles, Trinity College; Susan Brown, U of Guelph; Lisa Brundage, CUNY; micha cárdenas, U of Washington Bothell; Marcia Chatelain, Georgetown U; Danielle Cole; Beth Coleman, U of Waterloo; T. L. Cowan, U of Toronto; Constance Crompton, U of Ottawa; Amy E. Earhart, Texas A&M; Nickoal Eichmann-Kalwara, U of Colorado Boulder; Julia Flanders, Northeastern U Library; Sandra Gabriele, Concordia U; Brian Getnick; Karen Gregory, U of Edinburgh; Alison Hedley, Ryerson U; Kathryn Holland, MacEwan U; James Howe, Rutgers U; Jeana Jorgensen, Indiana U; Alexandra Juhasz, Brooklyn College, CUNY; Dorothy Kim, Vassar College; Kimberly Knight, U of Texas, Dallas; Lorraine Janzen Kooistra, Ryerson U; Sharon M. Leon, Michigan State; Izetta Autumn Mobley, U of Maryland; Padmini Ray Murray, Srishti Institute of Art, Design, and Technology; Veronica Paredes, U of Illinois; Roopika Risam, Salem State; Bonnie Ruberg, U of California, Irvine; Laila Shereen Sakr (VJ Um Amel), U of California, Santa Barbara; Anastasia Salter, U of Central Florida; Michelle Schwartz, Ryerson U; Emily Sherwood, U of Rochester; Deb Verhoeven, U of Technology, Sydney; Scott B. Weingart, Carnegie Mellon U.",
+		"edition": "1st edition",
+		"event-place": "Minneapolis ; London",
+		"ISBN": "978-1-5179-0611-5",
+		"language": "English",
+		"number-of-pages": "544",
+		"publisher": "Univ Of Minnesota Press",
+		"publisher-place": "Minneapolis ; London",
+		"source": "Amazon",
+		"title": "Bodies of Information: Intersectional Feminism and the Digital Humanities",
+		"title-short": "Bodies of Information",
+		"editor": [
+			{
+				"family": "Losh",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Wernimont",
+				"given": "Jacqueline"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/9TN7PDVT",
+		"type": "book",
+		"abstract": "Exploring the intersections of digital humanities and African diaspora studies   How can scholars use digital tools to better understand the African diaspora across time, space, and disciplines? And how can African diaspora studies inform the practices of digital humanities? These questions are at the heart of this timely collection of essays about the relationship between digital humanities and Black Atlantic studies, offering critical insights into race, migration, media, and scholarly knowledge production.The Digital Black Atlantic spans the African diaspora’s range—from Africa to North America, Europe, and the Caribbean—while its essayists span academic fields—from history and literary studies to musicology, game studies, and library and information studies. This transnational and interdisciplinary breadth is complemented by essays that focus on specific sites and digital humanities projects throughout the Black Atlantic. Covering key debates, The Digital Black Atlantic asks theoretical and practical questions about the ways that researchers and teachers of the African diaspora negotiate digital methods to explore a broad range of cultural forms including social media, open access libraries, digital music production, and video games. The volume further highlights contributions of African diaspora studies to digital humanities, such as politics and representation, power and authorship, the ephemerality of memory, and the vestiges of colonialist ideologies. Grounded in contemporary theory and praxis, The Digital Black Atlantic puts the digital humanities into conversation with African diaspora studies in crucial ways that advance both. Contributors: Alexandrina Agloro, Arizona State U; Abdul Alkalimat; Suzan Alteri, U of Florida; Paul Barrett, U of Guelph; Sayan Bhattacharyya, Singapore U of Technology and Design; Agata Błoch, Institute of History of Polish Academy of Sciences; Michał Bojanowski, Kozminski U; Sonya Donaldson, New Jersey City U; Anne Donlon; Laurent Dubois, Duke U; Amy E. Earhart, Texas A&M U; Schuyler Esprit, U of the West Indies; Demival Vasques Filho, U of Auckland, New Zealand; David Kirkland Garner; Alex Gil, Columbia U; Kaiama L. Glover, Barnard College, Columbia U; D. Fox Harrell, MIT; Hélène Huet, U of Florida; Mary Caton Lingold, Virginia Commonwealth U; Angel David Nieves, San Diego State U; Danielle Olson, MIT; Tunde Opeibi (Ope-Davies), U of Lagos, Nigeria; Jamila Moore Pewu, California State U, Fullerton; Anne Rice, Lehman College, CUNY; Sercan Şengün, Northeastern U; Janneken Smucker, West Chester U; Laurie N.Taylor, U of Florida; Toniesha L. Taylor, Texas Southern U.",
+		"event-place": "Minneapolis",
+		"ISBN": "978-1-5179-1080-8",
+		"language": "English",
+		"number-of-pages": "272",
+		"publisher": "Univ Of Minnesota Press",
+		"publisher-place": "Minneapolis",
+		"source": "Amazon",
+		"title": "The Digital Black Atlantic",
+		"editor": [
+			{
+				"family": "Risam",
+				"given": "Roopika"
+			},
+			{
+				"family": "Josephs",
+				"given": "Kelly Baker"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/28VZCS9M",
+		"type": "book",
+		"abstract": "The hidden costs of artificial intelligence—from natural resources and labor to privacy, equality, and freedom\"This study argues that [artificial intelligence] is neither artificial nor particularly intelligent. . . . A fascinating history of the data on which machine-learning systems are trained.\"—New Yorker\"A valuable corrective to much of the hype surrounding AI and a useful instruction manual for the future.\"—John Thornhill, Financial Times\"It’s a masterpiece, and I haven’t been able to stop thinking about it.\"—Karen Hao, senior editor, MIT Tech Review What happens when artificial intelligence saturates political life and depletes the planet? How is AI shaping our understanding of ourselves and our societies? Drawing on more than a decade of research, award‑winning scholar Kate Crawford reveals how AI is a technology of extraction: from the minerals drawn from the earth, to the labor pulled from low-wage information workers, to the data taken from every action and expression. This book reveals how this planetary network is fueling a shift toward undemocratic governance and increased inequity. Rather than taking a narrow focus on code and algorithms, Crawford offers us a material and political perspective on what it takes to make AI and how it centralizes power. This is an urgent account of what is at stake as technology companies use artificial intelligence to reshape the world.",
+		"event-place": "New Haven London",
+		"ISBN": "978-0-300-26463-0",
+		"language": "English",
+		"number-of-pages": "336",
+		"publisher": "Yale University Press",
+		"publisher-place": "New Haven London",
+		"source": "Amazon",
+		"title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
+		"title-short": "Atlas of AI",
+		"author": [
+			{
+				"family": "Crawford",
+				"given": "Kate"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/RK4KRDG6",
+		"type": "book",
+		"abstract": "An exploration of how design might be led by marginalized communities, dismantle structural inequality, and advance collective liberation and ecological survival.What is the relationship between design, power, and social justice? “Design justice” is an approach to design that is led by marginalized communities and that aims expilcitly to challenge, rather than reproduce, structural inequalities. It has emerged from a growing community of designers in various fields who work closely with social movements and community-based organizations around the world.This book explores the theory and practice of design justice, demonstrates how universalist design principles and practices erase certain groups of people—specifically, those who are intersectionally disadvantaged or multiply burdened under the matrix of domination (white supremacist heteropatriarchy, ableism, capitalism, and settler colonialism)—and invites readers to “build a better world, a world where many worlds fit; linked worlds of collective liberation and ecological sustainability.” Along the way, the book documents a multitude of real-world community-led design practices, each grounded in a particular social movement. Design Justice goes beyond recent calls for design for good, user-centered design, and employment diversity in the technology and design professions; it connects design to larger struggles for collective liberation and ecological survival.",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-262-04345-8",
+		"language": "English",
+		"number-of-pages": "360",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Amazon",
+		"title": "Design Justice: Community-Led Practices to Build the Worlds We Need",
+		"title-short": "Design Justice",
+		"author": [
+			{
+				"family": "Costanza-Chock",
+				"given": "Sasha"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/C6VWXM8U",
+		"type": "book",
+		"abstract": "A new way of thinking about data science and data ethics that is informed by the ideas of intersectional feminism.Today, data science is a form of power. It has been used to expose injustice, improve health outcomes, and topple governments. But it has also been used to discriminate, police, and surveil. This potential for good, on the one hand, and harm, on the other, makes it essential to ask: Data science by whom? Data science for whom? Data science with whose interests in mind? The narratives around big data and data science are overwhelmingly white, male, and techno-heroic. In Data Feminism, Catherine D'Ignazio and Lauren Klein present a new way of thinking about data science and data ethics—one that is informed by intersectional feminist thought.Illustrating data feminism in action, D'Ignazio and Klein show how challenges to the male/female binary can help challenge other hierarchical (and empirically wrong) classification systems. They explain how, for example, an understanding of emotion can expand our ideas about effective data visualization, and how the concept of invisible labor can expose the significant human efforts required by our automated systems. And they show why the data never, ever “speak for themselves.”Data Feminism offers strategies for data scientists seeking to learn how feminism can help them work toward justice, and for feminists who want to focus their efforts on the growing field of data science. But Data Feminism is about much more than gender. It is about power, about who has it and who doesn't, and about how those differentials of power can be challenged and changed.",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-262-04400-4",
+		"language": "English",
+		"number-of-pages": "328",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Amazon",
+		"title": "Data Feminism",
+		"author": [
+			{
+				"family": "D'Ignazio",
+				"given": "Catherine"
+			},
+			{
+				"family": "Klein",
+				"given": "Lauren F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/DV44XS2H",
+		"type": "book",
+		"abstract": "For well over a century, academic disciplines have studied human behavior using quantitative information. Until recently, however, the humanities have remained largely immune to the use of data—or vigorously resisted it. Thanks to new developments in computer science and natural language processing, literary scholars have embraced the quantitative study of literary works and have helped make Digital Humanities a rapidly growing field. But these developments raise a fundamental, and as yet unanswered question: what is the meaning of literary quantity?           In Enumerations, Andrew Piper answers that question across a variety of domains fundamental to the study of literature. He focuses on the elementary particles of literature, from the role of punctuation in poetry, the matter of plot in novels, the study of topoi, and the behavior of characters, to the nature of fictional language and the shape of a poet’s career. How does quantity affect our understanding of these categories? What happens when we look at 3,388,230 punctuation marks, 1.4 billion words, or 650,000 fictional characters? Does this change how we think about poetry, the novel, fictionality, character, the commonplace, or the writer’s career? In the course of answering such questions, Piper introduces readers to the analytical building blocks of computational text analysis and brings them to bear on fundamental concerns of literary scholarship. This book will be essential reading for anyone interested in Digital Humanities and the future of literary study.",
+		"edition": "First edition",
+		"event-place": "Chicago ; London",
+		"ISBN": "978-0-226-56875-1",
+		"language": "English",
+		"number-of-pages": "256",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago ; London",
+		"source": "Amazon",
+		"title": "Enumerations: Data and Literary Study",
+		"title-short": "Enumerations",
+		"author": [
+			{
+				"family": "Piper",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/3M56U5M8",
+		"type": "book",
+		"abstract": "For the past seven years, the Stanford Literary Lab, founded by Franco Moretti and Matthew Jockers, has been a leading site of literary scholarship aided by computers and algorithmic methods. This landmark volume gathers the collective research of the group and its most remarkable experiments. From seemingly ineffable matters such as the loudness of thousands of novels, the geographic distribution of emotions, the nature of a sentence and a paragraph, and the evolution of bureaucratic doublespeak, descriptions emerge. The Stanford Literary Lab lets the computers provide new insights for questions from the deep tradition of two centuries of literary inquiry. Rather than, like the rest of us, letting the computers lead. The results are adventurous, witty, challenging, profound. The old questions can finally get new answers as the prelude to new big questions. Canon/Archive is the fulfillment and further development of distant reading, adding a rare, full-length monument to the piecemeal progress of the digital humanities. No student, teacher, or inquisitive reader of literature will want to be without this book just as no one interested in the new data-attentive methods in history, criticism, and the social sciences can afford to evade its summons.",
+		"edition": "First edition",
+		"event-place": "New York",
+		"ISBN": "978-0-9970318-7-4",
+		"language": "English",
+		"number-of-pages": "336",
+		"publisher": "n+1 Foundation",
+		"publisher-place": "New York",
+		"source": "Amazon",
+		"title": "Canon/Archive: Studies in Quantitative Formalism",
+		"title-short": "Canon/Archive",
+		"author": [
+			{
+				"family": "Moretti",
+				"given": "Franco"
+			},
+			{
+				"family": "Algee-Hewitt",
+				"given": "Mark"
+			},
+			{
+				"family": "Allison",
+				"given": "Sarah"
+			},
+			{
+				"family": "Gemma",
+				"given": "Marissa"
+			},
+			{
+				"family": "Heuser",
+				"given": "Ryan"
+			},
+			{
+				"family": "Jockers",
+				"given": "Matthew"
+			},
+			{
+				"family": "Katsma",
+				"given": "Holst"
+			},
+			{
+				"family": "Le-Khac",
+				"given": "Long"
+			},
+			{
+				"family": "Pestre",
+				"given": "Dominique"
+			},
+			{
+				"family": "Steiner",
+				"given": "Erik"
+			},
+			{
+				"family": "Tevel",
+				"given": "Amir"
+			},
+			{
+				"family": "Walser",
+				"given": "Hannah"
+			},
+			{
+				"family": "Witmore",
+				"given": "Michael"
+			},
+			{
+				"family": "Yamboliev",
+				"given": "Irena"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/R9FNRXGX",
+		"type": "book",
+		"abstract": "An introduction to text analysis using computer-assisted interpretive practices, accompanied by example essays that illustrate the use of these computational tools.The image of the scholar as a solitary thinker dates back at least to Descartes' Discourse on Method. But scholarly practices in the humanities are changing as older forms of communal inquiry are combined with modern research methods enabled by the Internet, accessible computing, data availability, and new media. Hermeneutica introduces text analysis using computer-assisted interpretive practices. It offers theoretical chapters about text analysis, presents a set of analytical tools (called Voyant) that instantiate the theory, and provides example essays that illustrate the use of these tools. Voyant allows users to integrate interpretation into texts by creating hermeneutica―small embeddable “toys” that can be woven into essays published online or into such online writing environments as blogs or wikis. The book's companion website, Hermeneuti.ca, offers the example essays with both text and embedded interactive panels. The panels show results and allow readers to experiment with the toys themselves.The use of these analytical tools results in a hybrid essay: an interpretive work embedded with hermeneutical toys that can be explored for technique. The hermeneutica draw on and develop such common interactive analytics as word clouds and complex data journalism interactives. Embedded in scholarly texts, they create a more engaging argument. Moving between tool and text becomes another thread in a dynamic dialogue.",
+		"edition": "Illustrated edition",
+		"event-place": "Cambridge, Massachusetts ; London, England",
+		"ISBN": "978-0-262-03435-7",
+		"language": "English",
+		"number-of-pages": "256",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge, Massachusetts ; London, England",
+		"source": "Amazon",
+		"title": "Hermeneutica: Computer-Assisted Interpretation in the Humanities",
+		"title-short": "Hermeneutica",
+		"author": [
+			{
+				"family": "Rockwell",
+				"given": "Geoffrey"
+			},
+			{
+				"family": "Sinclair",
+				"given": "Stéfan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					1
+				]
+			]
+		}
+	}
+]
