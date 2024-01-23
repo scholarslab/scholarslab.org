@@ -7,13 +7,20 @@ permalink: /working-library/
 ---
 
 <div class="working-library">
-{% for work in site.working-library %}
+{% for work in site.data.working_library %}
 
-<a id="{{work.slug}}" href="{{ work.url }}">
-    <img alt="" src="https://covers.openlibrary.org/b/isbn/{{ work.isbn }}-M.jpg" />
+<div>
+    <img alt="" src="https://covers.openlibrary.org/b/isbn/{{ work.ISBN }}-M.jpg" />
     {% assign work_title = work.title | split: ":" %}
     <em>{{ work_title[0] }}</em>
-</a>
+    <strong>{{ work.ISBN }}</strong>
+    {% for editor in work.editor %}
+    {{ editor.given }} {{ editor.family }}
+    {% endfor %}
+    {% for author in work.author %}
+    {{ author.given }} {{ author.family }}
+    {% endfor %}
+</div>
 
 {% endfor %}
 </div>
