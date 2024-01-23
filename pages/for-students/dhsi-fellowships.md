@@ -5,7 +5,7 @@ permalink: /dhsi-tuition-fellowships/
 nav: false
 ---
 
-**Opportunity is subject to funding availability. Students interested in 2023 courses should write ASAP as funding is still available.**
+**Opportunity is subject to funding availability. Students interested in 2024 courses should write ASAP as funding is still available.**
 
 
 The University of Virginia, as a sponsoring institution of [DHSI](https://dhsi.org/), provides a handful of tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop each year. UVA students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply.
@@ -14,7 +14,7 @@ The fellowships entirely cover the cost of course tuition for one course, using 
 
 Visit [dhsi.org](https://dhsi.org/) for descriptions of the available courses. Fellowships are offered on a first-come-first-served basis, and a call for interest is generally shared each fall.
 
-To register interest, email bmw9t@virginia.edu:
+To register interest, email bmw9t@virginia.edu (**note for 2024: after January 15th email Ronda Grizzle at ronda@virginia.edu as Brandon will be on paternity leave**):
 
 * UVA affiliation & status (e.g. 3rd year PhD in art history, staff job title in Library/department)
 * The course/workshop you’d like to take (and 1-2 other courses of interest, in case a course cap is reached)

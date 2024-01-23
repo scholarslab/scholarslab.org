@@ -22,7 +22,7 @@ For expressions of the pedagogy we bring to our work with students, explore our 
 ## Digital Humanities Fellowship Program
 **Call issued:** Annually late in the fall semester, typically by November 1st if all goes well.
 
-**Deadline:** Feburary 15th, 2023 for the 2022-2024 fellowship year.
+**Deadline:** Feburary 15th, 2024 for the 2024-2025 fellowship year.
 
 [More information](/digital-humanities-fellows/)
 
@@ -55,9 +55,9 @@ No formal call for this external program, but graduate students interested in se
 
 ## DHSI Tuition Fellowships
 
-[More information](/dhsi-tuition-fellowships/)
-
 The University of Virginia, as a sponsoring institution of [DHSI](https://dhsi.org/), provides a handful of tuition-free fellowships to attend a Digital Humanities Summer Institute course or workshop each year. UVA students, staff, non-TT faculty, and those without access to research travel funds are especially encouraged to apply. A call is typically issued in the fall and fellowships are awarded on a first-come-first-served basis.
+
+[More information](/dhsi-tuition-fellowships/)
 
 ## Digital Humanities Programming and Departmental Language Requirements
 

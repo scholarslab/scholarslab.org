@@ -18,6 +18,14 @@ iframe {
     width: 100%;
 }
 
+/*
+ * Possibly prevents horizontal scroll on any
+ * embeded Github gists.
+ */
+.gist td {
+	max-width: 600px;
+}
+
 /* Partials: */
 
 @import "_colors/slab-palette";
@@ -40,6 +48,7 @@ iframe {
 @import "event";
 @import "blog";
 @import "spatial-tech";
+@import "research-and-development";
 @import "research-project";
 
 // Styles for the working-library browse page. Uses a div for now.
