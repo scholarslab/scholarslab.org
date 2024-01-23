@@ -1582,32 +1582,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/379/items/GXT4CUMY",
-		"type": "book",
-		"abstract": "A Primer for Teaching Digital History is a guide for college and high school teachers who are teaching digital history for the first time or for experienced teachers who want to reinvigorate their pedagogy. It can also serve those who are training future teachers to prepare their own syllabi, as well as teachers who want to incorporate digital history into their history courses. Offering design principles for approaching digital history that represent the possibilities that digital research and scholarship can take, Jennifer Guiliano outlines potential strategies and methods for building syllabi and curricula. Taking readers through the process of selecting data, identifying learning outcomes, and determining which tools students will use in the classroom, Guiliano outlines popular research methods including digital source criticism, text analysis, and visualization. She also discusses digital archives, exhibits, and collections as well as audiovisual and mixed-media narratives such as short documentaries, podcasts, and multimodal storytelling. Throughout, Guiliano illuminates how digital history can enhance understandings of not just what histories are told but how they are told and who has access to them.",
-		"language": "English",
-		"number-of-pages": "254",
-		"publisher": "Duke University Press Books",
-		"source": "Amazon",
-		"title": "A Primer for Teaching Digital History: Ten Design Principles",
-		"title-short": "A Primer for Teaching Digital History",
-		"author": [
-			{
-				"family": "Guiliano",
-				"given": "Jennifer"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2022",
-					4,
-					22
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/379/items/PDXBTMKF",
 		"type": "book",
 		"abstract": "The prefix “hyper” refers to multiplicity and abundance. More than a physical space, a hypercity is a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities. Hypercities are always under construction.Todd Presner, David Shepard, and Yoh Kawano put digital humanities theory into practice to chart the proliferating cultural records of places around the world. A digital platform transmogrified into a book, it explains the ambitious online project of the same name that maps the historical layers of city spaces in an interactive, hypermedia environment. The authors examine the media archaeology of Google Earth and the cultural–historical meaning of map projections, and explore recent events―the “Arab Spring” and the Fukushima nuclear power plant disaster―through social media mapping that incorporates data visualizations, photographic documents, and Twitter streams. A collaboratively authored and designed work, HyperCities includes a “ghost map” of downtown Los Angeles, polyvocal memory maps of LA’s historic Filipinotown, avatar-based explorations of ancient Rome, and hour-by-hour mappings of the Tehran election protests of 2009.Not a book about maps in the literal sense, HyperCities describes thick mapping: the humanist project of participating and listening that transforms mapping into an ethical undertaking. Ultimately, the digital humanities do not consist merely of computer-based methods for analyzing information. They are a means of integrating scholarship with the world of lived experience, making sense of the past in the layered spaces of the present for the sake of the open future.",
@@ -1801,6 +1775,31 @@
 					"2001",
 					9,
 					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/379/items/8CJYIIZ4",
+		"type": "book",
+		"ISBN": "978-1-4780-1505-5",
+		"language": "eng",
+		"note": "Open Library ID: OL33947674M",
+		"number-of-pages": "240",
+		"publisher": "Duke University Press",
+		"source": "The Open Library",
+		"title": "Primer for Teaching Digital History: Ten Design Principles",
+		"title-short": "Primer for Teaching Digital History",
+		"author": [
+			{
+				"family": "Guiliano",
+				"given": "Jennifer"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
 				]
 			]
 		}
