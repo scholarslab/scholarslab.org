@@ -74,3 +74,4 @@ defaults:
     values:
       order: 10
       og_type: "website"
+      regenerate: true
